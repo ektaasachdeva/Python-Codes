@@ -102,15 +102,16 @@ character_frequency_in_file("sample.txt")
 
 
 **o.) Print the words in reverse order**
-''''bash
+''''
 def reverse_words_in_file(filename):
     with open(filename, 'r') as file:
         words = file.read().split()
     print(' '.join(reversed(words)))
 
 reverse_words_in_file("sample.txt")
+''''
 
-                ''''
+          
 
 
   
