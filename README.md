@@ -78,6 +78,7 @@ https://www.programiz.com/online-compiler/9I9jfio3jb31R
 **NO.13 WAP to read a file and**   
 **m.) Print the total number of characters, words and lines in the file.**
 '''python
+
 filename=input("Enter filename:")
 file=open(filename, 'r') 
 lines = file.readlines()
@@ -85,6 +86,7 @@ num_lines = len(lines)
 num_words = sum(len(line.split()) for line in lines)
 num_chars = sum(len(line) for line in lines)
 print(num_chars, num_words, num_lines)
+
    '''
 
 **n.) Calculate the frequency of each character in the file. Use a variable of dictionary type to maintain the count.**
