@@ -29,6 +29,32 @@ l. Generate first 'n' program numbers
 
 ![l](https://github.com/user-attachments/assets/cfebda16-486b-4b2b-a225-0a3309675371)
 
+**NO.3 WAP to create a pyramid of the character '*' and a reverse**
+
+![pyramid](https://github.com/user-attachments/assets/a77ed0f8-b205-44b0-a543-cae5236c054d)
+
+**NO.8 WAP that accepts a character and performs the following:**
+
+a.) print whether the character is a letter or numeric digit or a special character https://www.programiz.com/online-compiler/8JecBnWaL7Ge1
+
+![8](https://github.com/user-attachments/assets/0f702921-d3da-4722-acb6-5d90d84bf179)
+
+b.) if the character is a letter, print whether the letter is uppercase or lowercase
+
+![b](https://github.com/user-attachments/assets/dc2e684a-c9c9-4a59-b4f2-3434143d4054)
+
+c.) if the character is a numeric digit, print its name in text (eg. if input is 9, output is NINE)
+
+![C](https://github.com/user-attachments/assets/0ab3aa3e-a752-4df1-a2fa-815120ebf3e4)
+
+
+
+
+
+
+
+
+
 
 
 
