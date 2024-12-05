@@ -47,6 +47,25 @@ c.) if the character is a numeric digit, print its name in text (eg. if input is
 
 ![C](https://github.com/user-attachments/assets/0ab3aa3e-a752-4df1-a2fa-815120ebf3e4)
 
+**NO.9 WAP to perform the following operations on a string** 
+https://www.programiz.com/online-compiler/53aZNy9W4JtBO
+
+a.) Find the frequency of a character in a string
+b.) Replace a character by another character in a string 
+c.) Remove the first occurence of a character from a string
+d.) Remove all occurence of a character from a sting 
+![9](https://github.com/user-attachments/assets/04b3e1ae-fba9-41a0-8e01-7bb826e8c42b)
+
+**NO. 10 WAP to swap the first n characters of two strings**
+
+
+
+
+
+
+
+
+
 
 
 
