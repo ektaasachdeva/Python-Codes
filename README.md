@@ -78,7 +78,8 @@ https://www.programiz.com/online-compiler/9I9jfio3jb31R
 **NO.13 WAP to read a file and**   
 **m.) Print the total number of characters, words and lines in the file.**
 
-
+ ```bash
+   python file_operations.py
 
 filename=input("Enter filename:")
 file=open(filename, 'r') 
@@ -88,11 +89,13 @@ num_words = sum(len(line.split()) for line in lines)
 num_chars = sum(len(line) for line in lines)
 print(num_chars, num_words, num_lines)
 
-   ```bash
-   python file_operations.py
+  
 
 **n.) Calculate the frequency of each character in the file. Use a variable of dictionary type to maintain the count.**
-''''bash
+
+ ```bash
+   python file_operations.py
+
 def character_frequency_in_file(filename):
     freq = {}
     with open(filename, 'r') as file:
@@ -102,18 +105,20 @@ def character_frequency_in_file(filename):
     print(freq)
 
 character_frequency_in_file("sample.txt")
-''''
+
 
 
 **o.) Print the words in reverse order**
-''''python
+
+ ```bash
+   python file_operations.py
+
 def reverse_words_in_file(filename):
     with open(filename, 'r') as file:
         words = file.read().split()
     print(' '.join(reversed(words)))
 
 reverse_words_in_file("sample.txt")
-''''
 
           
 
